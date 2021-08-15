@@ -17,7 +17,7 @@ In order to run the game you need to download this repository by clicking on Cod
 
 Or clone it with:
 ```sh
-git clone 
+git clone git@github.com:RuaN-debug/Flappy_Birdy.git
 ```
 
 Then all you have to do is install the pygame:
