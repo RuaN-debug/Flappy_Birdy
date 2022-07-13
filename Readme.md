@@ -25,7 +25,7 @@ git clone git@github.com:RuaN-debug/Flappy_Birdy.git
 
 Then all you have to do is install the pygame:
 ```sh
-pip install -r requirements
+pip install -r requirements.txt
 ```
 And run the main.py file:
 ```sh
